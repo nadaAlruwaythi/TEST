@@ -28,9 +28,9 @@ image = Image.open('nupco.png') #Brand logo image (optional)
 
 # st.sidebar.image('nupco.png', width=200)
 
-import streamlit as st
-import pandas as pd
-import plost
+# import streamlit as st
+# import pandas as pd
+# import plost
 
 st.set_page_config(layout='wide', initial_sidebar_state='expanded')
 
